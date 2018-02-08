@@ -9,5 +9,6 @@
 <body>
 	<h3>3조화이팅!!!!! 승찬부터시작</h3>
 	<div>미화!!!!!!!</div>
+	<b style="font-size: 100px; color: red;">용기모띠</b>
 </body>
 </html>
